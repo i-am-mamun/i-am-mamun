@@ -56,5 +56,5 @@ I'm a passionate developer from Bangladesh. I love building modern web applicati
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=i-am-mamun&theme=react-dark&bg_color=0d1117&hide_border=true" width="100%" alt="Activity Graph" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=i-am-mamun&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
