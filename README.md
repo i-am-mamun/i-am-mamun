@@ -9,14 +9,14 @@ I'm a passionate developer from Bangladesh. I love building web apps and explori
 - 🔭 I’m currently working on: **ERP, POS, E-commerce**
 - 🌱 I’m currently learning: **Docker, PostgreSQL, Next.js**
 - 💬 Ask me about: **Flutter, Dart, React, Node.js, Databases**
-- 📫 Reach me at: **Wmamun690@gmail.com*
+- 📫 Reach me at: **Wmamun690@gmail.com**
 
 ---
 
 ### 🏆 GitHub Trophies
 <!-- ট্রফি যুক্ত করতে আপনার ইউজারনেম বসান -->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=i-am-mamun&theme=onedark" alt="Trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=i-am-mamun&theme=onedark&no-frame=true&margin-w=4" alt="Mamun's Trophies" />
 </div>
 
 ---
