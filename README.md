@@ -49,12 +49,12 @@ I'm a passionate developer from Bangladesh. I love building modern web applicati
 
 ### 📊 GitHub Analytics
 <div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=i-am-mamun&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=i-am-mamun&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=i-am-mamun&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=i-am-mamun&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=i-am-mamun&layout=compact&count_private=true&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
